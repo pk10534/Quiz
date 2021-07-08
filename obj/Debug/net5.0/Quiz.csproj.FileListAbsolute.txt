@@ -1,0 +1,16 @@
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.exe
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.deps.json
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.dll
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\ref\Quiz.dll
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\bin\Debug\net5.0\Quiz.pdb
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.dll
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\ref\Quiz.dll
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.pdb
+C:\Users\pk080\source\repos\Ch21 Studio\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
