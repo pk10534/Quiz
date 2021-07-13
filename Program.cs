@@ -10,7 +10,7 @@ namespace Quiz
 
             Question patrick = new Question("Patrick");
 
-            patrick.WelcomeToQuiz();
+            patrick.BeginCreatingQuiz();
             Console.WriteLine("-----------------------------------------------------------");
             Console.WriteLine("Please enter Question 1: ");
             string response1 = Console.ReadLine();
@@ -27,13 +27,14 @@ namespace Quiz
             string correctAnswerNotParsed = Console.ReadLine();
             int correctAnswer = Int32.Parse(correctAnswerNotParsed); //parses correct answer as an int so it can be used as an indice to access correct response
 
-
-            MultipleChoice q1PossibleAnswers = new MultipleChoice(possibleResponses, "Hello");  //for question one possible answers 
+            //These create the instances to call on 
+            MultipleChoice q1PossibleAnswers = new MultipleChoice(possibleResponses, "");  //for question one possible answers 
             MultipleChoice q1 = new MultipleChoice(response1, ""); //for question number one
-            MultipleChoice correct = new MultipleChoice(correctAnswer, "Hello");
+            MultipleChoice correct = new MultipleChoice(correctAnswer, "");
 
 
-
+            //This begins the test
+            patrick.WelcomeToQuiz();
             q1.IntroToSection();
             q1.ListFirstQuestion();
             q1PossibleAnswers.ListQ1Responses();

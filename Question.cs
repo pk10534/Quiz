@@ -30,6 +30,11 @@ namespace Quiz
             Console.WriteLine("Welcome to the quiz! You will be presented with a Multiple Choice Question, aTrue/False statement, and a question where there could be multiple correct responses. Good luck!");
         }
 
+        public void BeginCreatingQuiz()
+        {
+            Console.WriteLine("Let's create a quiz! You will design the questions, input the correct response, and then the participant will have a chance to take it!");
+        }
+
         
 
 
